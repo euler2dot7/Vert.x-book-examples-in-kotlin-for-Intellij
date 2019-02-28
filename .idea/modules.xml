@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmp-vtx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tmp-vtx_main.iml" group="vtx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tmp-vtx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tmp-vtx_test.iml" group="vtx" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vtx.iml" filepath="$PROJECT_DIR$/.idea/modules/vtx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vtx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vtx_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vtx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vtx_test.iml" />
+    </modules>
+  </component>
+</project>
